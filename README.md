@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Firoz Shaikh
 
-🔧 DevOps Engineer | 🖥️ 16+ Years of Experience | **CKA Certified** |☁️ AWS | 🛠️ Terraform | 📦 Docker | 🧪 CI/CD | 🔍 Monitoring
+🔧 DevOps Engineer | 🖥️ 16+ Years of Experience | **CKA Certified** |☁️ AWS | 🛠️ Terraform | 📦 Docker | 🧪 CI/CD | Ansible |🔍 Monitoring
 
 ---
 
