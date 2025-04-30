@@ -46,6 +46,5 @@ I specialize in automating infrastructure, managing CI/CD pipelines, and ensurin
 
 - ✉️ Email: firoz.shaikh2208@gmail.com  
 - 🌐 LinkedIn: www.linkedin.com/in/firoz-shaikh-71454b29  
-- 💼 Resume: [Attach Link or GitHub Repo](#)
 
 ---
